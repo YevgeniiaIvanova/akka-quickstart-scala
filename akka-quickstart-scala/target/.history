@@ -1,0 +1,4 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/dgemk/AppData/Local/Temp/sbt-structure.xml; session clear-all
+run
+all {file:/C:/Users/dgemk/IdeaProjects/akka-quickstart-scala/akka-quickstart-scala/}akka-quickstart-scala/products {file:/C:/Users/dgemk/IdeaProjects/akka-quickstart-scala/akka-quickstart-scala/}akka-quickstart-scala/test:products
+run
